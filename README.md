@@ -32,6 +32,20 @@ Once the quest designer is convinced of an idea it is told to other members of t
 
 In order t explain all the phases involved in the quest design I’m going to use the points that Philipp Weber (Quest Designer at CD Projekt Red) uses in his paper MAKING GAMES CLASSICS: QUEST DESIGN IN THE WITCHER 3: WILD HUNT (link in the bibliography).
 
+-	**Implementing the quest:**
+In this phase the quest designers write all the dialogues involved in the quest, they decide NPCs involved (normally they also describe them, because they aren’t already created).
+
+-	**Level structure:**
+Here is where the quest designers decide how the NPCs involved in the quest will act. They can decide where the NPCs will be, if they will be able to interact with them when you want or only at certain hours, etc. Thanks to this they can give to the player a more immersive experience.
+
+-	**The quest phase:**
+Now the designers start to connect all what they have already, so they can set when and where happens everything, when every dialogue starts, etc. In this phase the organization is very important, cause other quest designers and QA workers must be able to understand it.
+
+-	**Under close scrutiny:**
+In this point the prototype is already done and is when it’s tested to see if everything is correct. In this case it is sent to the Quest Design Lead. If he approves it, it’s sent to the story team. The story team will rewrite it.
+
+- **Working with other departments:**
+This is probably one of the most important points. It’s not exactly a phase, because it’s done during the hole process of the quest design. It’s very important that the quest designers are in contact and work with other departments such as artists, sound designers, QA and many others.
 
 
 ### Markdown
