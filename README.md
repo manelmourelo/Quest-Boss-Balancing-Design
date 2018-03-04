@@ -118,7 +118,7 @@ This following design tips are taken from the article 7 Essential Ingredients fo
 
 -	**Puzzle:** A boss fight is like a puzzle. This is because it should be difficult and have special mechanics. The player must find the way to beat the boss using their brains and not going just for strength. The reason to it is that if the boss can be killed just with strength it can feel boring for the players.
 
--	**Mastery:** This means that the player should have knowledge of the games mechanics to defeat a boss. This is accomplished making a boss that requires the player to use a variety of things he has learned during the game.
+-	**Mastery:** This means that the player should have knowledge of the game's mechanics to defeat a boss. This is accomplished making a boss that requires the player to use a variety of things he has learned during the game.
 
 -	**Believability:** The player must believe the information he can obtain of the boss. This means that if the boss has any weakness it must be something the player must believe. For example, let’s take a giant golem. The golem is made of rocks, but it has a point where it is weak. If the weak point is a place in his body where it has a crack it is easy to believe, but if it is in part of his body that seems like the rest of the body the player won’t believe it is a weak point and he won’t try to attack at this part of the golem’s body.
 
