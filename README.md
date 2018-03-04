@@ -94,7 +94,7 @@ These steps aren’t mine, they are a combination of two articles I found on the
    
 !["IntroductoryParagraph"](http://cconlinejournal.org/gaming_issue_2008/Chang_Gaming_as_writing/images/img_walkthrough4.jpg)
 
-   **6.	Set up the location:** Maybe you already know where is happening the quest, but if you don’t is time to think about it. You must have in count that the place where the quest happens is very important, because it’s another way to immerse the player into the game.  And it’s also important the fact that maybe the plot of a quest is amazing, but if it’s in a place it makes no sense the quest won’t be as good as it should. As an example, let’s use the one I said about a hidden treasure in the step 2. If the treasure was hidden by a pirate it makes sense, it’s in an island or near the coast. But if it was inside a volcano in the middle of the continent it wouldn’t be credible.
+   **6.	Set up the location:** Maybe you already know where is happening the quest, but if you don’t it's time to think about it. You must have in count that the place where the quest happens is very important, because it’s another way to immerse the player into the game.  And it’s also important the fact that maybe the plot of a quest is amazing, but if it’s in a place it makes no sense the quest won’t be as good as it should. As an example, let’s use the one I said about a hidden treasure in the step 2. If the treasure was hidden by a pirate it makes sense, it’s in an island or near the coast. But if it was inside a volcano in the middle of the continent it wouldn’t be credible.
    
 !["Location"](https://static.planetminecraft.com/files/resource_media/screenshot/1232/WorldMap-World_3162678.jpg)
 
