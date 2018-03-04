@@ -71,7 +71,9 @@ These steps aren’t mine, they are a combination of two articles I found on the
 
 I highly recommend reading the article [How to Write Your First Video Game Quest](https://www.emwelsh.com/blog/video-game-writing-guide). It also talks about dialogue trees, which can be very useful if more people are working with you and have to understand how the dialogues of the quest will work.
 
+### **Common mistakes:**
 
+There are many common mistakes when designing a quest. The most common is not giving importance to the plot. Another common mistake is making the quest just to guide the player. Using a quest to guide the player and make him go where you want isn’t bad. The problem is when the quest has only this purpose, because when it happens it has no plot and in consequence it has no interest for the player, a part that the player feels pressured to make something. Other mistakes are using the same plot with little changes many times in the game, because it makes the player feel that he’s doing all the time the same and it will bore him. In my opinion this are the most common mistakes.
 
 
 
