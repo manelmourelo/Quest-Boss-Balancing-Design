@@ -69,7 +69,7 @@ These steps aren’t mine, they are a combination of two articles I found on the
 
    **7.	Make all the content needed to do the quest:** Here is where you polish the quest. You must write everything that NPCs can tell you related to the quest, or letters you can find that talk about it. Also, items related to it that can help you find out how to complete the quest. All of this is very important that is ready before implementing the quest into the game.
 
-
+I highly recommend reading the article [How to Write Your First Video Game Quest](https://www.emwelsh.com/blog/video-game-writing-guide). It also talks about dialogue trees, which can be very useful if more people are working with you and have to understand how the dialogues of the quest will work.
 
 
 
