@@ -132,7 +132,9 @@ These steps are taken from the article [How to Make a Video Game Boss](https://w
 
    **10.	Don't restrict yourself when making the boss:** Well this is basically the fact that you don’t have to limit yourself when designing the boss. You can become crazy when designing the boss, use all the resources you want for it, if something is not related with the rest of the level give it a reason to be there using the lore of the game.
 
+### **Common mistakes:**
 
+The most common mistakes when designing a boss is making it unfair by overpowering it. Another mistake that is very common is making a boss that has nothing special and it’s just a boss because it has a massive HP bar and the player must waste a lot of time to defeat him. This is a bad idea due to the fact that the boss will be boring and if the player dies he won’t want to fight the boss again. Another common mistake is not making a rewarding boss.
 
 
 
