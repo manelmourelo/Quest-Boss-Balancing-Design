@@ -174,6 +174,9 @@ Now that we know how to design quests and bosses we need to know how to balance 
    
     17.	To know how the game is getting on.
 
+If your quest or boss let the player have this right it will be balanced in certain way. This will make that it’s not overpowered, but maybe you’ve made an underpowered boss or an extremely easy quest. In this case the only way you can know it is by testing it. The problem is that you can’t be the one who tests it because you’ve know all that is going to happen, so you need to do external tests and ask for feedback. This is the best way to balance a game. Also take in count that you can play with underpowering and overpowering enemies to use it in your favour. For example, you can think about difficult games such as Dark Souls. This game plays with making everything difficult for unexperimented players. 
+
+Also, you must have in count the public of your game. You can’t make a difficult game for children’s, and you can’t neither make an extremely easy game for adults.
 
 
 
