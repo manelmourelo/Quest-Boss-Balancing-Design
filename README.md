@@ -1,7 +1,23 @@
-# Quest/Boss/Balancing Design
+# **Quest/Boss/Balancing Design**
 
 “I am [Manel Mourelo](https://www.linkedin.com/in/manel-mourelo-montero-b6011415a/), student of the [Bachelor’s Degree in Video Games by UPC at CITM](https://www.citm.upc.edu/ing/estudis/graus-videojocs/). This content is generated for the second year’s subject Project 2, under supervision of lecturer [Ricard Pillosu](https://es.linkedin.com/in/ricardpillosu).”
 
+# **Index:**
+
+* [Quests](https://github.com/manelmourelo/Quest-Boss-Balancing-Design#quests)
+    * [Brief introduction](https://github.com/manelmourelo/Quest-Boss-Balancing-Design#brief-introduction)
+    * [How quests are designed](https://github.com/manelmourelo/Quest-Boss-Balancing-Design#how-quests-are-designed)
+    * [Points to take in count when designing a quest](https://github.com/manelmourelo/Quest-Boss-Balancing-Design#points-to-take-in-count-when-designing-a-quest)
+    * [Step by step process](https://github.com/manelmourelo/Quest-Boss-Balancing-Design#step-by-step-process)
+    * [Common mistakes](https://github.com/manelmourelo/Quest-Boss-Balancing-Design#common-mistakes)
+ * [Bosses](https://github.com/manelmourelo/Quest-Boss-Balancing-Design#bosses)
+    * [How bosses are designed](https://github.com/manelmourelo/Quest-Boss-Balancing-Design#how-to-design-a-boss)
+    * [Points to take in count when designing a boss](https://github.com/manelmourelo/Quest-Boss-Balancing-Design#points-to-take-in-count-when-designing-a-boss)
+    * [Step by step process](https://github.com/manelmourelo/Quest-Boss-Balancing-Design#step-by-step-process-1)
+    * [Common mistakes](https://github.com/manelmourelo/Quest-Boss-Balancing-Design#common-mistakes-1)
+  * [Balancing](https://github.com/manelmourelo/Quest-Boss-Balancing-Design#balancing)
+  * [Bibliography and interesting posts](https://github.com/manelmourelo/Quest-Boss-Balancing-Design#bibliography-and-interesting-posts)
+  
 ## **Quests:**
 
 ### **Brief introduction:**
