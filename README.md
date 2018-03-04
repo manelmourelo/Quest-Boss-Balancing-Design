@@ -53,7 +53,7 @@ If you want to design a quest you should thin previously about the plot behind i
 
 ### **Step by step process:**
 
-These steps aren’t mine, they are a combination of two articles I found on the internet. The first four steps are from an article in wikiHow called How to Make a Video Game Side Quest and the rest are from E.M.·WELSH, called How to [Write Your First Video Game Quest](https://www.wikihow.com/Make-a-Video-Game-Side-Quest). Even though the steps aren’t mine, the explanation of each steep is mine.
+These steps aren’t mine, they are a combination of two articles I found on the internet. The first four steps are from an article in wikiHow called [How to Make a Video Game Side Quest](https://www.wikihow.com/Make-a-Video-Game-Side-Quest) and the rest are from E.M.·WELSH, called How to [Write Your First Video Game Quest](https://www.emwelsh.com/blog/video-game-writing-guide). Even though the steps aren’t mine, the explanation of each steep is mine.
 
 
 
