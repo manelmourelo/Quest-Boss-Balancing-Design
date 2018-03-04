@@ -82,7 +82,7 @@ These steps aren’t mine, they are a combination of two articles I found on the
 !["ChickenQuestGiver"](https://i.ytimg.com/vi/ptBP1AAkmlE/maxresdefault.jpg)
 
 
-   **3.	Think about the body of the quest:** This step can be confused with the first step, but it’s different. While the first step made you thin about the objectives this one is about how to complete the objective. I’ll use the same example as in the first step to explain this. The child asked you to find his/her parents (objective). Then, this step is about how to find the child parents. Maybe you must ask people around the village about the parents, or maybe you have to follow some footprints. This is what this step refers to.
+   **3.	Think about the body of the quest:** This step can be confused with the first step, but it’s different. While the first step made you think about the objectives this one is about how to complete the objective. I’ll use the same example as in the first step to explain this. The child asked you to find his/her parents (objective). Then, this step is about how to find the child parents. Maybe you must ask people around the village about the parents, or maybe you have to follow some footprints. This is what this step refers to.
    
 !["Dialogue"](http://2.bp.blogspot.com/-f-M1Qe-CDPM/TipY0Nt1-MI/AAAAAAAAA4Y/PIhjRGKdg0Y/s1600/Screen%2Bshot%2B2011-07-18%2Bat%2B11.09.58%2BPM.jpg)
 
