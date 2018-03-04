@@ -128,24 +128,44 @@ Also, the boss must be a reward for the player or a goal that he wants to beat.
 These steps are taken from the article [How to Make a Video Game Boss](https://www.wikihow.com/Make-a-Video-Game-Boss) from wikiHow. But as with all the article I’ll explain it with my words and I’ll try to give explanatory examples.
 
    **1.	Make sure the boss fits with the current level's theme:** This means that the boss you design must have a relation with the environment that surrounds it. The easiest way to explain it is through an example, so I’ll use Ragnaros from World of Warcraft. Ragnaros is a fire elemental and the fight takes place in The FireLands. It makes sense, a fire elemental in a place full of fire. But now imagine Ragnaros in the middle of an ocean. It would make zero sense and it will break the immersive feeling of the game.
+   
+!["Ragnaros"](https://wtsheals.files.wordpress.com/2011/09/800px-ragnarosfirelands.jpg)
 
    **2.	Make sure it's harder than the average enemy:** The boss must be harder than all the enemies in it’s level, otherwise it won’t feel like a powerful enemy. This can be accomplished by giving the boss more variety of attacks. It can also be accomplished by giving the boss a huge amount of HP, but I don’t recommend it, because the player will feel that it’s boring and in the case the player dies and has to start the boss fight again he won’t be in the mood of doing it.
+   
+!["BossBomb"](https://i.imgur.com/lyappFk.jpg)
 
    **3.	How difficult the boss should be should depend on what point in the game it's encountered:** This is an important step. The difficulty of the boss must be equal to the level where the boss fight takes place. This means that it must be more difficult than the previous boss, but easier than the next boss. As an example, think about a game of three levels. If the first level boss is the most difficult than the second and third bosses, you will feel that the game is turning easier while you are playing. If this happens the game will be getting boring while the player opens his path through the levels.
+   
+!["FireLandsBosses"](https://media.mmo-champion.com/images/news/2011/june/ejbossselection.jpg)
 
    **4.	Not every level has to have a boss:** This is not really a step, but it’s an important tip. If you are designing a game, you must have in mind that the fact of placing bosses in all the levels is not an obligation. If you’ve made a level that’s enough challenging and makes the player feels satisfied when he finishes it you don’t need a boss, because maybe it will break the good level design.
+   
+!["MarioLevel"](https://i.kinja-img.com/gawker-media/image/upload/s--_WmOL33d--/c_scale,fl_progressive,q_80,w_800/rp9crpla17856bynctsm.jpg)
 
    **5.	Sometimes make the boss fight complex:** Don’t take me wrong, all the boss fights should be complex, but not all of them needs to have incredibly complex mechanics. Maybe the boss is enough to make the fight challenging, or maybe the player needs to make some things in order to be able to defeat the boss. Think for example in a boss that can be challenging enough with it’s attacks and its stages, it doesn’t need that the player goes to use certain objects in the room to defeat him, but if the boss doesn’t feels challenging enough you can make the player use some objects in order to make the fight interesting.
+   
+!["Illidan"](https://repgrind.files.wordpress.com/2010/02/wowscrnshot_020110_221047.jpg)
 
    **6.	Make sure the music changes from the normal level tune to the boss tune:** The sound is very important when creating an immersive experience, so it’s a must when designing a boss. When the boss appears, the music should change to make the player know that he’s in front a powerful enemy that will put him in some troubles. To make it easier to understand, you just have to take a game and fight the same boss twice, one with audio and the other one without audio. You will realise that the audio has a huge impact in the experience, it can even make feel the battle more difficult than it really is.
+   
+!["MarioVSBowser"](https://orig00.deviantart.net/e27b/f/2013/179/9/e/mario_vs_bowser_by_originalthomasfan89-d6b18ql.jpg)
 
    **7.	If possible make every boss' tune its own:** It’s not good repeating the same music in every boss fight, because the player will lose the feeling of fighting a special boss different from the others in the game. This can also be said about the looks of the boss. You shouldn’t use the same boss with colour changes, because it will happen the same as with the music.
+   
+!["EqualBosses"](https://www.spriters-resource.com/resources/sheets/16/17103.png)
 
    **8.	Make sure as the boss' health gets lower it actually begins to vary its attacks:** This is basically the fact of giving stages to the boss. This is important to make the boss feel unique and challenging.
+   
+!["BossStages"](http://i67.tinypic.com/2moqm9w.jpg)
 
    **9.	Give the player a reason to fight your boss:** The player must feel that there’s a reason to fight the boss, even if it’s due to the lore or for the drop it has. For example, you can think about Arthas from World of Warcraft. This boss combines two reasons why the player wants to fight him. The first is the fact that it’s the most important enemy during it’s expansion and the second reason is for the loot it has. Even today much people fights him every week just to obtain an item it droops.
 
+!["ArthasAndInvincible"](https://pbs.twimg.com/media/CXqUmsQW8AAPrPh.jpg)
+
    **10.	Don't restrict yourself when making the boss:** Well this is basically the fact that you don’t have to limit yourself when designing the boss. You can become crazy when designing the boss, use all the resources you want for it, if something is not related with the rest of the level give it a reason to be there using the lore of the game.
+   
+!["EpicBoss"](https://i.ytimg.com/vi/7r6sSEZn0jY/maxresdefault.jpg)
 
 ### **Common mistakes:**
 
