@@ -79,7 +79,7 @@ There are many common mistakes when designing a quest. The most common is not gi
 
 ### **How to design a boss:**
 
-This following design tips are taken from the article [7 Essential Ingredients for an Unforgettable Boss Battle] (http://mentalblockgaming.com/blog/game-design/boss-fights/). You can find it in the webpage mentalblockgaming. Even thought the tips are from the page I’ll explain them with my own words.
+This following design tips are taken from the article 7 Essential Ingredients for an Unforgettable Boss Battle. You can find it in the webpage [mentalblockgaming](http://mentalblockgaming.com/blog/game-design/boss-fights/). Even thought the tips are from the page I’ll explain them with my own words.
 
 
 
