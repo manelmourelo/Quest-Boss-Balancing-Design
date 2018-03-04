@@ -217,4 +217,53 @@ Also, you must have in count the public of your game. You can’t make a difficu
 
 **For more information I highly recommend this youtube channels: [Snowman Gaming](https://www.youtube.com/channel/UCmY2tPu6TZMqHHNPj2QPwUQ) and [Extra Credits](https://www.youtube.com/channel/UCCODtTcd5M1JavPCOr_Uydg). They offer a huge variety of information about videogames.**
 
-#**Bibliography:**
+# **Bibliography and interesting posts:**
+
+[How to make good quests](http://www.lysator.liu.se/mud/questdesign.html)
+
+[Quest (video gaming)](https://en.wikipedia.org/wiki/Quest_(video_gaming))
+
+[Six Invaluable Tips For Designing Fun Side Quests](https://www.nyfa.edu/student-resources/tips-designing-fun-side-quests/)
+
+[Writing Quests for Video Games](http://www.make-video-games.com/writing-quests-for-video-games.htm)
+
+[Understanding Video Games: The Essential Introduction](https://books.google.es/books?id=xbg0CwAAQBAJ&pg=PT336&lpg=PT336&dq=video+games+quests&source=bl&ots=NcTJT1Y8VK&sig=Y5P1LW9ujKQuDoGtWVsSLq5GZ9M&hl=es&sa=X&ved=2ahUKEwj_hLvMiMnZAhVMOhQKHcqoBcU4ChDoATAFegQIABBX#v=onepage&q=video%20games%20quests&f=false)
+
+[How to Make a Video Game Side Quest](https://www.wikihow.com/Make-a-Video-Game-Side-Quest)
+
+[Main Quest Overview](https://learn.canvas.net/courses/3/pages/main-quest-overview)
+
+[How to Write Your First Video Game Quest](https://www.emwelsh.com/blog/video-game-writing-guide)
+
+[Quests in Context: A Comparative Analysis of Discworld and World of Warcraft](http://gamestudies.org/0801/articles/karlsen)
+
+[MAKING GAMES CLASSICS: QUEST DESIGN IN THE WITCHER 3: WILD HUNT](http://www.makinggames.biz/feature/quest-design-in-the-witcher-3-wild-hunt,6896.html)
+
+[RPG Design: Seven Ways to Fix Boring Quests](http://rampantgames.com/blog/?p=4028)
+
+[Quest Design - I: Why Many MMOs Rely on Repetitive Grind Quests - Extra Credits](https://www.youtube.com/watch?v=otAkP5VjIv8)
+
+[Quest Design - II: How to Create Interesting MMO and RPG Quests - Extra Credits](https://www.youtube.com/watch?v=ur6GQp5mCYs)
+
+[Boss (video gaming)](https://en.wikipedia.org/wiki/Boss_(video_gaming))
+
+[How to Make a Video Game Boss](https://www.wikihow.com/Make-a-Video-Game-Boss)
+
+[Boss Fights: Are they obsolete? Do we still need them?](https://www.giantbomb.com/forums/general-discussion-30/boss-fights-are-they-obsolete-do-we-still-need-the-530324/)
+
+[Boss Battle Design and Structure](https://www.gamasutra.com/view/feature/134503/boss_battle_design_and_structure.php?print=1)
+
+[BOSS DESIGN: THE MAKING OF CYCLOPTOPUS](http://petermalamudsmith.weebly.com/witcheye/boss-design-the-making-of-cycloptopus)
+
+[Good Game Design - Bosses](https://www.youtube.com/watch?v=YmwLPF11eos)
+
+[Designing a Boss Fight: Lessons Learned From Modern Games](https://gamedevelopment.tutsplus.com/tutorials/designing-a-boss-fight-lessons-learned-from-modern-games--gamedev-2373)
+
+[How to make a great boss fight](https://www.pcgamer.com/how-to-make-a-great-boss-fight/)
+
+[3 Elements Every Great Boss Fight Needs](http://game-wisdom.com/critical/3-boss-fight)
+
+[7 Essential Ingredients for an Unforgettable Boss Battle](http://mentalblockgaming.com/blog/game-design/boss-fights/)
+
+[The 25 Best Boss Battles Of All Time](http://www.complex.com/pop-culture/2013/05/the-25-best-boss-battles-of-all-time/)
+
