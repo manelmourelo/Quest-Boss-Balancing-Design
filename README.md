@@ -140,6 +140,39 @@ The most common mistakes when designing a boss is making it unfair by overpoweri
 
 Now that we know how to design quests and bosses we need to know how to balance them. The fact of making them rewarding is already talked in the previous point, so I won’t talk about it more, but we need to balance the difficulty. For this I found an interesting post that talks about player’s rights. This post is from the page lysator and it’s called [How to make good quests](http://www.lysator.liu.se/mud/questdesign.html). I highly recommend reading it because I’ll just write the rights it mention, so if you want more information about it you should read the post, that also talks about how to make a good videogame. Even thought it was written only for quest design it can be applied to all the game design.
 
+    1.	Not to be killed without warning.
+   
+    2.	Not to be given horribly unclear hints.
+   
+    3.	To be able to win without experience of past lives.
+   
+    4.	To be able to win without knowledge of future events.
+   
+    5.	Not to have the game closed off without warning.
+   
+    6.	Not to need to do unlikely things.
+   
+    7.	Not to need to do boring things for the sake of it.
+   
+    8.	Not to have to type exactly the right verb.
+   
+    9.	To be allowed reasonable synonyms.
+   
+    10.	To have a decent parser.
+   
+    11.	To have reasonable freedom of action.
+   
+    12.	Not to depend much on luck.
+   
+    13.	To be able to understand a problem once it is solved.
+   
+    14.	Not to be given too many red herrings.
+   
+    15.	To have a good reason why something is impossible.
+   
+    16.	Not to need to be American to understand hints.
+   
+    17.	To know how the game is getting on.
 
 
 
