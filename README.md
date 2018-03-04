@@ -211,39 +211,6 @@ Now that we know how to design quests and bosses we need to know how to balance 
 
 If your quest or boss let the player have this right it will be balanced in certain way. This will make that it’s not overpowered, but maybe you’ve made an underpowered boss or an extremely easy quest. In this case the only way you can know it is by testing it. The problem is that you can’t be the one who tests it because you’ve know all that is going to happen, so you need to do external tests and ask for feedback. This is the best way to balance a game. Also take in count that you can play with underpowering and overpowering enemies to use it in your favour. For example, you can think about difficult games such as Dark Souls. This game plays with making everything difficult for unexperimented players. 
 
+!["DarkSouls"](http://cdn.akamai.steamstatic.com/steam/apps/374320/ss_975ca4966b9b627f8d9bb0d2c9b6743dfceac6da.1920x1080.jpg)
+
 Also, you must have in count the public of your game. You can’t make a difficult game for children’s, and you can’t neither make an extremely easy game for adults.
-
-
-
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/manelmourelo/Quest-Boss-Balancing-Design/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
