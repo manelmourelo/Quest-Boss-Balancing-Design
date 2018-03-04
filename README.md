@@ -132,8 +132,7 @@ The last tip I can give is that when you are designing a boss you should think a
 
 ### **Points to take in count when designing a boss:**
 
-When you design a boss, you must have in mid that it has to be challenging and fair. It can be accomplished by using patterns in the attacks of the boss. It’s also important to think of stages that the boss should have, because a boss without stages can feel plain and boring. 
-
+When you design a boss, you must have in mind that it has to be challenging and fair. It can be accomplished by using patterns in the attacks of the boss. It’s also important to think of stages that the boss should have, because a boss without stages can feel plain and boring. 
 
 Make a boss that let you play with the player feelings. With this I mean that the boss should scare the player or intimidate him. Even it could make the player laugh, letting him underestimate the boss. You can even transform an NPC that during the game has been helping the player to make him feel betrayed.
 
@@ -143,7 +142,7 @@ Also, the boss must be a reward for the player or a goal that he wants to beat.
 
 ### **Step by step process:**
 
-These steps are taken from the article [How to Make a Video Game Boss](https://www.wikihow.com/Make-a-Video-Game-Boss) from wikiHow. But as with all the article I’ll explain it with my words and I’ll try to give explanatory examples.
+These steps are taken from the article [How to Make a Video Game Boss](https://www.wikihow.com/Make-a-Video-Game-Boss) from wikiHow. But as I've done previously I’ll explain it with my words and I’ll try to give explanatory examples.
 
    **1.	Make sure the boss fits with the current level's theme:** This means that the boss you design must have a relation with the environment that surrounds it. The easiest way to explain it is through an example, so I’ll use Ragnaros from World of Warcraft. Ragnaros is a fire elemental and the fight takes place in The FireLands. It makes sense, a fire elemental in a place full of fire. But now imagine Ragnaros in the middle of an ocean. It would make zero sense and it will break the immersive feeling of the game.
    
@@ -153,7 +152,7 @@ These steps are taken from the article [How to Make a Video Game Boss](https://w
    
 !["BossBomb"](https://i.imgur.com/lyappFk.jpg)
 
-   **3.	How difficult the boss should be should depend on what point in the game it's encountered:** This is an important step. The difficulty of the boss must be equal to the level where the boss fight takes place. This means that it must be more difficult than the previous boss, but easier than the next boss. As an example, think about a game of three levels. If the first level boss is the most difficult than the second and third bosses, you will feel that the game is turning easier while you are playing. If this happens the game will be getting boring while the player opens his path through the levels.
+   **3.	How difficult the boss should be should depend on what point in the game it's encountered:** This is an important step. The difficulty of the boss must be equal to the level where the boss fight takes place. This means that it must be more difficult than the previous boss, but easier than the next boss. As an example, think about a game of three levels. If the first level boss is more difficult than the second and third bosses, you will feel that the game is turning easier while you are playing. If this happens the game will be getting boring while the player opens his path through the levels.
    
 !["FireLandsBosses"](https://media.mmo-champion.com/images/news/2011/june/ejbossselection.jpg)
 
@@ -191,7 +190,7 @@ The most common mistakes when designing a boss is making it unfair by overpoweri
 
 # **Balancing:**
 
-Now that we know how to design quests and bosses we need to know how to balance them. The fact of making them rewarding is already talked in the previous point, so I won’t talk about it more, but we need to balance the difficulty. For this I found an interesting post that talks about player’s rights. This post is from the page lysator and it’s called [How to make good quests](http://www.lysator.liu.se/mud/questdesign.html). I highly recommend reading it because I’ll just write the rights it mention, so if you want more information about it you should read the post, that also talks about how to make a good videogame. Even thought it was written only for quest design it can be applied to all the game design.
+Now that we know how to design quests and bosses we need to know how to balance them. The fact of making them rewarding is already talked in the previous point, so I won’t talk about it more, but we need to balance the difficulty. For this, I found an interesting post that talks about player’s rights. This post is from the page lysator and it’s called [How to make good quests](http://www.lysator.liu.se/mud/questdesign.html). I highly recommend reading it because I’ll just write the rights it mention, so if you want more information about it you should read the post. It also talks about how to make a good videogame. Even thought it was written only for quest design it can be applied to all the game design.
 
     1.	Not to be killed without warning.
    
@@ -227,7 +226,7 @@ Now that we know how to design quests and bosses we need to know how to balance 
    
     17.	To know how the game is getting on.
 
-If your quest or boss let the player have this right it will be balanced in certain way. This will make that it’s not overpowered, but maybe you’ve made an underpowered boss or an extremely easy quest. In this case the only way you can know it is by testing it. The problem is that you can’t be the one who tests it because you’ve know all that is going to happen, so you need to do external tests and ask for feedback. This is the best way to balance a game. Also take in count that you can play with underpowering and overpowering enemies to use it in your favour. For example, you can think about difficult games such as Dark Souls. This game plays with making everything difficult for unexperimented players. 
+If your quest or boss let the player have this rights it will be balanced in certain way. This will make that it’s not overpowered, but maybe you’ve made an underpowered boss or an extremely easy quest. In this case the only way you can know it is by testing it. The problem is that you can’t be the one who tests it because you’ve know all that is going to happen, so you need to do external tests and ask for feedback. This is the best way to balance a game. Also take in count that you can play with underpowering and overpowering enemies to use it in your favour. For example, you can think about difficult games such as Dark Souls. This game plays with making everything difficult for unexperimented players. 
 
 !["DarkSouls"](http://cdn.akamai.steamstatic.com/steam/apps/374320/ss_975ca4966b9b627f8d9bb0d2c9b6743dfceac6da.1920x1080.jpg)
 
