@@ -22,6 +22,17 @@ The most common quests are those 6:
 
 - **Hybrids:** Those quests are the ones that combine other type of quest to make a more complex quest.
 
+### **How quests are designed:**
+
+In order to make a quest, professional teams, normally, have many quest designers, who are the ones in charge of thinking about new quests and in case that the quest is a side quest they also can make the plot behind their quests.
+
+Much of the professional developer teams make a lot of stories before they start working on the game. Those stories are normally documented in the GDD (Game Design Document). This is helpful for the quest designers, because it allows them to take the story that is already created to integrate it in their quest. It also means that in games we can only see a little part of all the story ideas that were made for it.
+
+Once the quest designer is convinced of an idea it is told to other members of the quest design group, to get feedback and when the idea is ready it is sent to the Lead Quest Designer. In case that the lead considers it to have potential for the game, the quest designer can go ahead and work on it.
+
+In order t explain all the phases involved in the quest design I’m going to use the points that Philipp Weber (Quest Designer at CD Projekt Red) uses in his paper MAKING GAMES CLASSICS: QUEST DESIGN IN THE WITCHER 3: WILD HUNT (link in the bibliography).
+
+
 
 ### Markdown
 
