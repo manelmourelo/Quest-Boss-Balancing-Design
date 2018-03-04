@@ -1,6 +1,6 @@
 ## Quest/Boss/Balancing Design
 
-“I am (https://www.linkedin.com/in/manel-mourelo-montero-b6011415a/)[Manel Mourelo], student of the
+“I am [Manel Mourelo](https://www.linkedin.com/in/manel-mourelo-montero-b6011415a/), student of the
 <https://www.citm.upc.edu/ing/estudis/graus-videojocs/>(Bachelor’s Degree in
 Video Games by UPC at CITM). This content is generated for the second year’s
 subject Project 2, under supervision of lecturer
