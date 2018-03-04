@@ -81,6 +81,32 @@ There are many common mistakes when designing a quest. The most common is not gi
 
 This following design tips are taken from the article 7 Essential Ingredients for an Unforgettable Boss Battle. You can find it in the webpage [mentalblockgaming](http://mentalblockgaming.com/blog/game-design/boss-fights/). Even thought the tips are from the page I’ll explain them with my own words.
 
+-	**Constant threat:** The boss must keep the player under tension due to the danger it supposes. This is very important to make the boss feel challenging.
+
+-	**Puzzle:** A boss fight is like a puzzle. This is because it should be difficult and have special mechanics. The player must find the way to beat the boss using their brains and not going just for strength. The reason to it is that if the boss can be killed just with strength it can feel boring for the players.
+
+-	**Mastery:** This means that the player should have knowledge of the games mechanics to defeat a boss. This is accomplished making a boss that requires the player to use a variety of things he has learned during the game.
+
+-	**Believability:** The player must believe the information he can obtain of the boss. This means that if the boss has any weakness it must be something the player must believe. For example, let’s take a giant golem. The golem is made of rocks, but it has a point where it is weak. If the weak point is a place in his body where it has a crack it is easy to believe, but if it is in part of his body that seems like the rest of the body the player won’t believe it is a weak point and he won’t try to attack at this part of the golem’s body.
+
+-	**Learning curve:** The boss must have a learning curve. This means that the boss should let the player adapt to him, so he can learn about the boss. This is accomplished by not letting the boss use all his abilities at the beginning of the fight, it must use them progressively during the fight. At a latest stage of the fight it can use all the abilities, cause the player must know already about them and how to counter it.
+
+-	**Phases:** It’s important that the boss has different stages during the fight. The reason is that a boss with different phases feels less plain and if it’s well designed and balanced it will be funnier for the player, a part of being more satisfactory for the player.
+
+-	**Aesthetics:** It refers at how the boss looks like. But not only the appearance, it also refers of the environment where the battle took place, and the sound. Think about fighting a king. The fight would be better in a castle than in the middle of the desert. The sound should also change respect the rest of the game. All of this is to make the boss fight more immersive.
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
