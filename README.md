@@ -97,6 +97,16 @@ This following design tips are taken from the article 7 Essential Ingredients fo
 
 The last tip I can give is that when you are designing a boss you should think about the best boss you’ve ever fight. Think why it was so great and try to make a boss that feels like the one you enjoyed.
 
+### **Points to take in count when designing a boss:**
+
+When you design a boss, you must have in mid that it has to be challenging and fair. It can be accomplished by using patterns in the attacks of the boss. It’s also important to think of stages that the boss should have, because a boss without stages can feel plain and boring. 
+
+
+Make a boss that let you play with the player feelings. With this I mean that the boss should scare the player or intimidate him. Even it could make the player laugh, letting him underestimate the boss. You can even transform an NPC that during the game has been helping the player to make him feel betrayed.
+
+Another thing to have in count is that the boss must feel unique. This means that it must feel different from normal enemies and even from other bosses.
+
+Also, the boss must be a reward for the player or a goal that he wants to beat.
 
 
 
