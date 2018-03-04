@@ -214,3 +214,7 @@ If your quest or boss let the player have this right it will be balanced in cert
 !["DarkSouls"](http://cdn.akamai.steamstatic.com/steam/apps/374320/ss_975ca4966b9b627f8d9bb0d2c9b6743dfceac6da.1920x1080.jpg)
 
 Also, you must have in count the public of your game. You can’t make a difficult game for children’s, and you can’t neither make an extremely easy game for adults.
+
+**For more information I highly recommend this youtube channels: [Snowman Gaming](https://www.youtube.com/channel/UCmY2tPu6TZMqHHNPj2QPwUQ) and [Extra Credits](https://www.youtube.com/channel/UCCODtTcd5M1JavPCOr_Uydg). They offer a huge variety of information about videogames.**
+
+#**Bibliography:**
