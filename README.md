@@ -75,6 +75,12 @@ I highly recommend reading the article [How to Write Your First Video Game Quest
 
 There are many common mistakes when designing a quest. The most common is not giving importance to the plot. Another common mistake is making the quest just to guide the player. Using a quest to guide the player and make him go where you want isn’t bad. The problem is when the quest has only this purpose, because when it happens it has no plot and in consequence it has no interest for the player, a part that the player feels pressured to make something. Other mistakes are using the same plot with little changes many times in the game, because it makes the player feel that he’s doing all the time the same and it will bore him. In my opinion this are the most common mistakes.
 
+## **Bosses**
+
+### **How to design a boss:**
+
+This following design tips are taken from the article [7 Essential Ingredients for an Unforgettable Boss Battle] (http://mentalblockgaming.com/blog/game-design/boss-fights/). You can find it in the webpage mentalblockgaming. Even thought the tips are from the page I’ll explain them with my own words.
+
 
 
 
