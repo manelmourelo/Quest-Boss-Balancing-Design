@@ -2,25 +2,25 @@
 
 “I am [Manel Mourelo](https://www.linkedin.com/in/manel-mourelo-montero-b6011415a/), student of the [Bachelor’s Degree in Video Games by UPC at CITM](https://www.citm.upc.edu/ing/estudis/graus-videojocs/). This content is generated for the second year’s subject Project 2, under supervision of lecturer [Ricard Pillosu](https://es.linkedin.com/in/ricardpillosu).”
 
-##Quests:
+##**Quests:**
 
-###Brief introduction
+###**Brief introduction:**
 
 A quest can be defined as a difficult journey towards a goal.
 
 The most common quests are those 6:
 
-•	Kill quests: You are sent to kill a certain number of enemies.
+•	**Kill quests:** You are sent to kill a certain number of enemies.
 
-•	Combo Quests: You must make certain attacks in the order you are told (normally used in tutorials).
+•	**Combo Quests:** You must make certain attacks in the order you are told (normally used in tutorials).
 
-•	Delivery Quests: You are told to bring an item from one place to another.
+•	**Delivery Quests:** You are told to bring an item from one place to another.
 
-•	Gather Quests: You are told to obtain certain items to complete the quest.
+•	**Gather Quests:** You are told to obtain certain items to complete the quest.
 
-•	Escort Quests: You have to follow an NPC and protect him from enemies.
+•	**Escort Quests:** You have to follow an NPC and protect him from enemies.
 
-•	Hybrids: Those quests are the ones that combine other type of quest to make a more complex quest.
+•	**Hybrids:** Those quests are the ones that combine other type of quest to make a more complex quest.
 
 
 ### Markdown
