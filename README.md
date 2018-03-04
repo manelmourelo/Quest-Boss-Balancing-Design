@@ -47,6 +47,9 @@ In this point the prototype is already done and is when it’s tested to see if 
 - **Working with other departments:**
 This is probably one of the most important points. It’s not exactly a phase, because it’s done during the hole process of the quest design. It’s very important that the quest designers are in contact and work with other departments such as artists, sound designers, QA and many others.
 
+### **Points to take in count when designing a quest:**
+
+If you want to design a quest you should thin previously about the plot behind it, the requirements to complete it and the rewards it gives. The reason for that is because when you are designing a quest you should try to make the quest interesting for the player in order to give him reasons to complete the quest. If you the quest has nothing to say, or makes players consider it not worth it to complete due to the low reward in relation to the difficulty players won’t be happy doing them. If players aren’t happy they are bored and that’s the opposite of what you want in a videogame.
 
 ### Markdown
 
