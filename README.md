@@ -108,7 +108,9 @@ Another thing to have in count is that the boss must feel unique. This means tha
 
 Also, the boss must be a reward for the player or a goal that he wants to beat.
 
+### **Step by step process:**
 
+These steps are taken from the article [How to Make a Video Game Boss](https://www.wikihow.com/Make-a-Video-Game-Boss) from wikiHow. But as with all the article I’ll explain it with my words and I’ll try to give explanatory examples.
 
 
 
