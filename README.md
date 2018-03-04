@@ -31,6 +31,7 @@ Much of the professional developer teams make a lot of stories before they start
 Once the quest designer is convinced of an idea it is told to other members of the quest design group, to get feedback and when the idea is ready it is sent to the Lead Quest Designer. In case that the lead considers it to have potential for the game, the quest designer can go ahead and work on it.
 
 In order t explain all the phases involved in the quest design I’m going to use the points that Philipp Weber (Quest Designer at CD Projekt Red) uses in his paper [MAKING GAMES CLASSICS: QUEST DESIGN IN THE WITCHER 3: WILD HUNT](http://www.makinggames.biz/feature/quest-design-in-the-witcher-3-wild-hunt,6896.html).
+!["TheWitcher3"] (http://newtorrentgame.com/wp-content/uploads/2017/11/header-15-1.jpg)
 
 -	**Implementing the quest:**
 In this phase the quest designers write all the dialogues involved in the quest, they decide NPCs involved (normally they also describe them, because they aren’t already created).
