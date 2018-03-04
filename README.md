@@ -126,7 +126,7 @@ This following design tips are taken from the article 7 Essential Ingredients fo
 
 -	**Phases:** It’s important that the boss has different stages during the fight. The reason is that a boss with different phases feels less plain and if it’s well designed and balanced it will be funnier for the player, a part of being more satisfactory for the player.
 
--	**Aesthetics:** It refers at how the boss looks like. But not only the appearance, it also refers of the environment where the battle took place, and the sound. Think about fighting a king. The fight would be better in a castle than in the middle of the desert. The sound should also change respect the rest of the game. All of this is to make the boss fight more immersive.
+-	**Aesthetics:** It refers at how the boss looks like. But not only the appearance, it also refers of the environment where the battle takes place, and the sound. Think about fighting a king. The fight would be better in a castle than in the middle of the desert. The sound should also change respect the rest of the game. All of this is to make the boss fight more immersive.
 
 The last tip I can give is that when you are designing a boss you should think about the best boss you’ve ever fight. Think why it was so great and try to make a boss that feels like the one you enjoyed.
 
