@@ -136,7 +136,9 @@ These steps are taken from the article [How to Make a Video Game Boss](https://w
 
 The most common mistakes when designing a boss is making it unfair by overpowering it. Another mistake that is very common is making a boss that has nothing special and it’s just a boss because it has a massive HP bar and the player must waste a lot of time to defeat him. This is a bad idea due to the fact that the boss will be boring and if the player dies he won’t want to fight the boss again. Another common mistake is not making a rewarding boss.
 
+# **Balancing:**
 
+Now that we know how to design quests and bosses we need to know how to balance them. The fact of making them rewarding is already talked in the previous point, so I won’t talk about it more, but we need to balance the difficulty. For this I found an interesting post that talks about player’s rights. This post is from the page lysator and it’s called [How to make good quests](http://www.lysator.liu.se/mud/questdesign.html). I highly recommend reading it because I’ll just write the rights it mention, so if you want more information about it you should read the post, that also talks about how to make a good videogame. Even thought it was written only for quest design it can be applied to all the game design.
 
 
 
